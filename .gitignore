@@ -1,13 +1,10 @@
-# ── Godot 4 editor cache ──────────────────────────────────────────────
-# Regenerated automatically the first time the project is opened in Godot.
-# Machine-specific, never share it.
-.godot/
-
-# ── Python tooling cache (tools/*.py generators) ──────────────────────
-__pycache__/
-*.pyc
-
-# ── OS cruft ──────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────────
+#  This repository tracks the project IN FULL. Nothing is excluded.
+#  .godot/ (editor + import cache) and tools/__pycache__/ are committed
+#  on purpose so a clone is byte-for-byte the working directory.
+#  The patterns below are OS junk only — none of them exist right now;
+#  they are here so a stray desktop.ini never sneaks in unnoticed.
+# ─────────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
 desktop.ini
