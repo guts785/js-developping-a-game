@@ -1,0 +1,13 @@
+# ── Godot 4 editor cache ──────────────────────────────────────────────
+# Regenerated automatically the first time the project is opened in Godot.
+# Machine-specific, never share it.
+.godot/
+
+# ── Python tooling cache (tools/*.py generators) ──────────────────────
+__pycache__/
+*.pyc
+
+# ── OS cruft ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
